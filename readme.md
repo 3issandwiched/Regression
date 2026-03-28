@@ -13,6 +13,5 @@
    pip install -r requirements.txt
    ```
 2. Download the Dataset:
-```bash
+
 https://www.kaggle.com/datasets/fratzcan/usa-house-prices
-```
