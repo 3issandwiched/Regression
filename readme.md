@@ -14,5 +14,4 @@
    ```
 2. Download the Dataset:
 
-USA House Prices
 https://www.kaggle.com/datasets/fratzcan/usa-house-prices
